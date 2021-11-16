@@ -323,6 +323,7 @@ section {
 # Facts
 --------------------------------------------------------------*/
 .facts {
+  padding-top: 0px;
   padding-bottom: 30px;
 }
 .facts .count-box {
